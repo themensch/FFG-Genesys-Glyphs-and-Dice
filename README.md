@@ -11,4 +11,24 @@ GenesysGlyphsAndDice-v2.otf - the opentype font
 
 Have it your way!
 
+#### FAQ:
+
+Q: Why are the characters smooshed up like that?  
+A: That is something called "overprint" that is used in the printing process.  Most may not use it, but I assure you the glyphs work as intended.  They add a border around the previous character and are intended to add emphasis.  It is not a feature common to many text editors.
+
+Q: What is the layout of the symbols?
+A:
+  * Hollow Diamond (overprint): J
+  * Hollow Hexagon (overprint): K
+  * Hollow Square (overprint): L
+  * Advantage: a
+  * Despair: d
+  * Failure: f
+  * Threat: h
+  * Solid Square: j
+  * Solid Diamond: k
+  * Solid Hexagon: l
+  * Success: s
+  * Triumph: t
+
 
