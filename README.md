@@ -6,8 +6,8 @@
 
 ### What's here:
 
-GenesysGlyphsAndDice-v2.ttf - the truetype font
-GenesysGlyphsAndDice-v2.otf - the opentype font
+GenesysGlyphsAndDice-v2.ttf - the truetype font  
+GenesysGlyphsAndDice-v2.otf - the opentype font  
 
 Have it your way!
 
