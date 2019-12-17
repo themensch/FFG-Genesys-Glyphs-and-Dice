@@ -30,5 +30,7 @@ A:
   * Solid Hexagon: l
   * Success: s
   * Triumph: t
-
+  * Combat Rating: c
+  * General Rating: g
+  * Social Rating: p
 
