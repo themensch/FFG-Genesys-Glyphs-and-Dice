@@ -1,0 +1,30 @@
+/*****
+* Font declaration
+*****/
+
+@font-face {
+    font-family: 'Genesys';
+    src: url('genesysglyphsanddice.woff2') format('woff2'),
+         url('genesysglyphsanddice.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*****
+* Base style
+*****/
+
+.genesys {
+  font-family: 'Genesys';
+}
+
+.genesys.dice {
+  -webkit-text-stroke: 1.2px black;
+}
+
+.genesys.proficiency { color: #FDE600; }
+.genesys.ability { color: #45AD48; }
+.genesys.boost { color: #80CEC4; }
+.genesys.setback { color: #231F20; }
+.genesys.challenge { color: #771214; }
+.genesys.difficulty { color: #552C7F; }
