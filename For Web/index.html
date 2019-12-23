@@ -7,14 +7,53 @@
   <link rel="stylesheet" href="genesys.css">
   <title>Genesys Dice Example</title>
 </head>
-<body>
+<body style="max-width: 60ch; margin-left: auto; margin-right: auto;">
   <h1>Example Doc</h1>
   <p>This is just an example page to showcase how to use the <em>Genesys</em> dice font.</p>
+  <h2>Step 1: Add Genesys Font</h2>
 
-  <p>Good dice: <span class="genesys dice boost">j</span><span class="genesys dice ability">k</span><span class="genesys proficiency dice">l</span> and bad dice: <span class="genesys dice setback">j</span><span class="genesys dice difficulty">k</span><span class="genesys dice challenge">l</span></p>
+  <p>Use the <code>.genesys</code> class to access the font:</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div>
+      <p>The dice shapes</p>
+      <ul>
+        <li>j: <span class="genesys">j</span></li>
+        <li>k: <span class="genesys">k</span></li>
+        <li>l: <span class="genesys">l</span></li>
+      </ul>
+    </div>
+    <div>
+      <p>The dice results</p>
+      <ul>
+        <li>a: <span class="genesys">a</span></li>
+        <li>s: <span class="genesys">s</span></li>
+        <li>t: <span class="genesys">t</span></li>
+        <li>h: <span class="genesys">h</span></li>
+        <li>f: <span class="genesys">f</span></li>
+        <li>d: <span class="genesys">d</span></li>
+      </ul>
+    </div>
+    <div>
+      <p>Power Level icons</p>
+      <ul>
+        <li>c: <span class="genesys">c</span></li>
+        <li>p: <span class="genesys">p</span></li>
+        <li>g: <span class="genesys">g</span></li>
+      </ul>
+    </div>
+  </div>
 
-
-  <p>Of course, you can just use the <code>.genesys</code> class for the dice result symbols, like so: <span class="genesys">ast hfd</span>.</p>
+  <h2>Step 2: Add the Colour</h2>
+  <p>The dice require not only the <code>.dice</code> class to add the outline, you also need to add the dice-name class to add the inner colour.</p>
+  <ul>
+    <li><code>.boost</code>: <span class="genesys dice boost">j</span></li>
+    <li><code>.ability</code>: <span class="genesys dice ability">k</span></li>
+    <li><code>.proficiency</code>: <span class="genesys dice proficiency">l</span></li>
+    <li><code>.setback</code>: <span class="genesys dice setback">j</span></li>
+    <li><code>.difficulty</code>: <span class="genesys dice difficulty">k</span></li>
+    <li><code>.challenge</code>: <span class="genesys dice challenge">l</span></li>
+  </ul>
+  
 
   <p>One last thing, though. For accessability, be sure to use the <code>aria-label</code> in every <code>span</code> to make sure that screenreaders read what the symbol is and not just the letter.</p>
   <p>For example: <code>&lt;span class="genesys" aria-label="two success">ss&lt;/span></code></p>
