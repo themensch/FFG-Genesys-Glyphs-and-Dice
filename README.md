@@ -6,8 +6,8 @@
 
 ### What's here:
 
-GenesysGlyphsAndDice-v2.2.ttf - the truetype font  
-GenesysGlyphsAndDice-v2.2.otf - the opentype font  
+GenesysGlyphsAndDice-3.0.ttf - the truetype font  
+GenesysGlyphsAndDice-3.0.otf - the opentype font  
 For Web - all the web font goodness
 
 Older versions are aptly located in older_versions should you desire them.
@@ -36,4 +36,8 @@ A:
   * Combat Rating: c
   * General Rating: g
   * Social Rating: p
+  * Minus (overprint): v
+  * Plus (overprint): w
+  * Up chevron (overprint): x
+  * Down chevron (overprint): y
 
