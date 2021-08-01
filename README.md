@@ -1,8 +1,8 @@
-# FFG Genesys Glyphs and Dice
+# FFG/Edge Genesys Glyphs and Dice
 ## A set of fonts to allow for the use of Genesys symbols and dice symbols in docuents.
 
-### With thanks to forum users: lecudas and Territan for their prior art.  Most recent additions and improvements courtesy of Scott "Drainsmith" Zumwalt.  Many thanks to Christopher "c__beck" Ruthenbeck for the web trappings.   
-#### These fonts are not FFG-approved, and are provided as a service to the community.  If there's any issue with them, please contact the author.
+### With thanks to forum users: lecudas and Territan for their prior art.  Most recent additions and improvements courtesy of Scott "Drainsmith" Zumwalt.  Many thanks to Christopher "c__beck" Ruthenbeck for the web trappings.   Additional thanks to a kind Discord member for the markdown approximations.  
+#### These fonts are not FFG-approved or Edge-approved, and are provided as a service to the community.  If there's any issue with them, please contact the author.
 
 ### What's here:
 
