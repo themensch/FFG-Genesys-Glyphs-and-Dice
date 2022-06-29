@@ -45,3 +45,7 @@ as I'm finding the tablet I write this on does not but my phone does.
 | 10   |                  |          |                   |                   | &#9650; &#9650;   | &#9660; &#9660;   |
 | 11   |                  |          |                   |                   | &#9650; &#9650;   | &#9660; &#9660;   |
 | 12   |                  |          |                   |                   | &#10050;          | &#9746;           |
+
+## Example
+
+![Example in VSCode](images/vscode-html5-dec-code-example.png)
